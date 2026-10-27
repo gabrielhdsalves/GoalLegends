@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: a8c0b0f08a7ab93488e3c51b1a0512d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3911273981820885131
+    second: jogadorbarcelona_0
+  - first:
+      213: -5255363195491190759
+    second: jogadorbarcelona_1
+  - first:
+      213: -6851584313780858779
+    second: jogadorbarcelona_2
+  - first:
+      213: 4901736086555143237
+    second: jogadorbarcelona_3
+  - first:
+      213: -8796784646820599186
+    second: jogadorbarcelona_4
+  - first:
+      213: 7827110566225319423
+    second: jogadorbarcelona_5
+  - first:
+      213: -4177403778717995046
+    second: jogadorbarcelona_6
+  - first:
+      213: -1895534625908598955
+    second: jogadorbarcelona_7
+  - first:
+      213: 1591374690949188704
+    second: jogadorbarcelona_8
+  - first:
+      213: -1630183989918655758
+    second: jogadorbarcelona_9
+  - first:
+      213: -178599162532698061
+    second: jogadorbarcelona_10
+  - first:
+      213: 1943230513264510415
+    second: jogadorbarcelona_11
+  - first:
+      213: -7379448172422932654
+    second: jogadorbarcelona_12
+  - first:
+      213: -2638186054738472238
+    second: jogadorbarcelona_13
+  - first:
+      213: 4127063251447471711
+    second: jogadorbarcelona_14
+  - first:
+      213: -2490423556619404996
+    second: jogadorbarcelona_15
+  - first:
+      213: -4815512740773140861
+    second: jogadorbarcelona_16
+  - first:
+      213: 3645809241171010082
+    second: jogadorbarcelona_17
+  - first:
+      213: 7187283239413446681
+    second: jogadorbarcelona_18
+  - first:
+      213: -6830045778973327140
+    second: jogadorbarcelona_19
+  - first:
+      213: 7374001927335611487
+    second: jogadorbarcelona_20
+  - first:
+      213: 171589997791831276
+    second: jogadorbarcelona_21
+  - first:
+      213: -8755448991550210933
+    second: jogadorbarcelona_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jogadorbarcelona_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1040
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a65e490d58b9c0800000000000000
+      internalID: -3911273981820885131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1040
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f51f84033117b0800000000000000
+      internalID: -5255363195491190759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1040
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560147c2e584ae0a0800000000000000
+      internalID: -6851584313780858779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1041
+        width: 141
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c25dd0007760440800000000000000
+      internalID: 4901736086555143237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_4
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1056
+        width: 256
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae5a898fa8be580800000000000000
+      internalID: -8796784646820599186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_5
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1064
+        width: 312
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff51195179b7f9c60800000000000000
+      internalID: 7827110566225319423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1053
+        width: 296
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfa3266561e606c0800000000000000
+      internalID: -4177403778717995046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_7
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1070
+        width: 288
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557d34bfc45b1b5e0800000000000000
+      internalID: -1895534625908598955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_8
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1045
+        width: 278
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc29699d2b51610800000000000000
+      internalID: 1591374690949188704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 523
+        width: 305
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa9e5a5c4c6069e0800000000000000
+      internalID: -1630183989918655758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 524
+        width: 292
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3386e08020d758df0800000000000000
+      internalID: -178599162532698061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 523
+        width: 316
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c4db2bddb7fa10800000000000000
+      internalID: 1943230513264510415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_12
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 535
+        width: 332
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25753543cfee69990800000000000000
+      internalID: -7379448172422932654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 504
+        width: 365
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29cebc2c7436bd0800000000000000
+      internalID: -2638186054738472238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_14
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 503
+        width: 340
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e581c3926464930800000000000000
+      internalID: 4127063251447471711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 22
+        width: 185
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c397f6758fc307dd0800000000000000
+      internalID: -2490423556619404996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 44
+        width: 188
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38669da0dacdb2db0800000000000000
+      internalID: -4815512740773140861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 48
+        width: 208
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222a5d24034889230800000000000000
+      internalID: 3645809241171010082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 76
+        width: 235
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187b51c60c5eb360800000000000000
+      internalID: 7187283239413446681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 25
+        width: 338
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd083a81d8dc631a0800000000000000
+      internalID: -6830045778973327140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_20
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 24
+        width: 346
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c82eb0fa7b55660800000000000000
+      internalID: 7374001927335611487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_21
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 25
+        width: 238
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46461a13c916200800000000000000
+      internalID: 171589997791831276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorbarcelona_22
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 25
+        width: 241
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cf891d7856e7680800000000000000
+      internalID: -8755448991550210933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jogadorbarcelona_0: -3911273981820885131
+      jogadorbarcelona_1: -5255363195491190759
+      jogadorbarcelona_10: -178599162532698061
+      jogadorbarcelona_11: 1943230513264510415
+      jogadorbarcelona_12: -7379448172422932654
+      jogadorbarcelona_13: -2638186054738472238
+      jogadorbarcelona_14: 4127063251447471711
+      jogadorbarcelona_15: -2490423556619404996
+      jogadorbarcelona_16: -4815512740773140861
+      jogadorbarcelona_17: 3645809241171010082
+      jogadorbarcelona_18: 7187283239413446681
+      jogadorbarcelona_19: -6830045778973327140
+      jogadorbarcelona_2: -6851584313780858779
+      jogadorbarcelona_20: 7374001927335611487
+      jogadorbarcelona_21: 171589997791831276
+      jogadorbarcelona_22: -8755448991550210933
+      jogadorbarcelona_3: 4901736086555143237
+      jogadorbarcelona_4: -8796784646820599186
+      jogadorbarcelona_5: 7827110566225319423
+      jogadorbarcelona_6: -4177403778717995046
+      jogadorbarcelona_7: -1895534625908598955
+      jogadorbarcelona_8: 1591374690949188704
+      jogadorbarcelona_9: -1630183989918655758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

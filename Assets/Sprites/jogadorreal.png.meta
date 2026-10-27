@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: dc0d4ba38a45d284389dc44ee3701af1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4395772406577804303
+    second: jogadorreal_0
+  - first:
+      213: -6767427744783793800
+    second: jogadorreal_1
+  - first:
+      213: -586929175137953521
+    second: jogadorreal_2
+  - first:
+      213: 5727476337732458546
+    second: jogadorreal_3
+  - first:
+      213: -2809940357200786086
+    second: jogadorreal_4
+  - first:
+      213: -1033087560165639443
+    second: jogadorreal_5
+  - first:
+      213: -6760149505905698202
+    second: jogadorreal_6
+  - first:
+      213: -1921678590396849779
+    second: jogadorreal_7
+  - first:
+      213: -5196522021097489063
+    second: jogadorreal_8
+  - first:
+      213: -7359913936186485276
+    second: jogadorreal_9
+  - first:
+      213: 966129461236576911
+    second: jogadorreal_10
+  - first:
+      213: 3773352777305905732
+    second: jogadorreal_11
+  - first:
+      213: -1598862050587209347
+    second: jogadorreal_12
+  - first:
+      213: 3301799205359305302
+    second: jogadorreal_13
+  - first:
+      213: 2161622589168648941
+    second: jogadorreal_14
+  - first:
+      213: 6523589693002697413
+    second: jogadorreal_15
+  - first:
+      213: -3104993003533218463
+    second: jogadorreal_16
+  - first:
+      213: -7490168914682338482
+    second: jogadorreal_17
+  - first:
+      213: -8744294391893980543
+    second: jogadorreal_18
+  - first:
+      213: -5263083572897966524
+    second: jogadorreal_19
+  - first:
+      213: -5147018472017114027
+    second: jogadorreal_20
+  - first:
+      213: -8486862603440146305
+    second: jogadorreal_21
+  - first:
+      213: 1246038866281226573
+    second: jogadorreal_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jogadorreal_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1040
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04b887c6bbe00d30800000000000000
+      internalID: 4395772406577804303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1040
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710a0d42544512a0800000000000000
+      internalID: -6767427744783793800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1040
+        width: 166
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d69f560fcad7f0800000000000000
+      internalID: -586929175137953521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1041
+        width: 141
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2389ff932651c7f40800000000000000
+      internalID: 5727476337732458546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_4
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1056
+        width: 256
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d430102261109d0800000000000000
+      internalID: -2809940357200786086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_5
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1064
+        width: 312
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deab37a665cb9a1f0800000000000000
+      internalID: -1033087560165639443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1053
+        width: 296
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a55f757df1f22a0800000000000000
+      internalID: -6760149505905698202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_7
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1070
+        width: 288
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812ce6e083d455e0800000000000000
+      internalID: -1921678590396849779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_8
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1045
+        width: 278
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d3df011ce32e7b0800000000000000
+      internalID: -5196522021097489063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 523
+        width: 305
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5582005455cd990800000000000000
+      internalID: -7359913936186485276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 524
+        width: 292
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82bb0050a1686d00800000000000000
+      internalID: 966129461236576911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 523
+        width: 316
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5d8fdb54ad5430800000000000000
+      internalID: 3773352777305905732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_12
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 535
+        width: 332
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7195e5af63bfc9e0800000000000000
+      internalID: -1598862050587209347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 504
+        width: 365
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652cb1332e852dd20800000000000000
+      internalID: 3301799205359305302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_14
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 503
+        width: 340
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de28bd5ca40affd10800000000000000
+      internalID: 2161622589168648941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 22
+        width: 185
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca43d72342788a50800000000000000
+      internalID: 6523589693002697413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 44
+        width: 188
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d44527059d8e4d0800000000000000
+      internalID: -3104993003533218463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 48
+        width: 208
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43afa48e039d0890800000000000000
+      internalID: -7490168914682338482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 76
+        width: 235
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a08bf649606a680800000000000000
+      internalID: -8744294391893980543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 25
+        width: 338
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446193e1065c5f6b0800000000000000
+      internalID: -5263083572897966524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_20
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 24
+        width: 346
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ccb0348fd1298b0800000000000000
+      internalID: -5147018472017114027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_21
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 25
+        width: 238
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7837607d6b983a80800000000000000
+      internalID: -8486862603440146305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogadorreal_22
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 25
+        width: 241
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41e5014fb1da4110800000000000000
+      internalID: 1246038866281226573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jogadorreal_0: 4395772406577804303
+      jogadorreal_1: -6767427744783793800
+      jogadorreal_10: 966129461236576911
+      jogadorreal_11: 3773352777305905732
+      jogadorreal_12: -1598862050587209347
+      jogadorreal_13: 3301799205359305302
+      jogadorreal_14: 2161622589168648941
+      jogadorreal_15: 6523589693002697413
+      jogadorreal_16: -3104993003533218463
+      jogadorreal_17: -7490168914682338482
+      jogadorreal_18: -8744294391893980543
+      jogadorreal_19: -5263083572897966524
+      jogadorreal_2: -586929175137953521
+      jogadorreal_20: -5147018472017114027
+      jogadorreal_21: -8486862603440146305
+      jogadorreal_22: 1246038866281226573
+      jogadorreal_3: 5727476337732458546
+      jogadorreal_4: -2809940357200786086
+      jogadorreal_5: -1033087560165639443
+      jogadorreal_6: -6760149505905698202
+      jogadorreal_7: -1921678590396849779
+      jogadorreal_8: -5196522021097489063
+      jogadorreal_9: -7359913936186485276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
