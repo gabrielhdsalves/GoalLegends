@@ -1,22 +1,36 @@
-⚽ Goal Legends 
+# ⚽ Goal Legends
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
-Este projeto consiste em um jogo de futebol 2D desenvolvido na Unity, utilizando a linguagem C#. Atualmente, o jogo está em sua primeira versão, ainda em desenvolvimento, com foco na implementação das mecânicas básicas de movimentação e interação entre os jogadores e a bola.
+Este projeto consiste em um jogo de futebol 2D desenvolvido na Unity, utilizando a linguagem C#. Atualmente, o jogo está em sua **primeira versão**, ainda em desenvolvimento, com foco na implementação das mecânicas básicas de movimentação e interação entre os jogadores e a bola.
 
-🎮 Funcionalidades
+## 🎮 Funcionalidades
 
 Nesta primeira versão, o jogo conta com:
 
-Dois jogadores (Player 1 e Player 2): personagens controlados individualmente pelo teclado, permitindo partidas locais.
+- **Dois jogadores (Player 1 e Player 2):** personagens controlados individualmente pelo teclado, permitindo partidas locais.
+- **Movimentação:** os personagens podem andar para a esquerda e para a direita, além de pular.
+- **Chute:** os jogadores podem chutar a bola, aplicando força conforme a direção do personagem.
+- **Cabeçada:** possibilidade de interagir com a bola utilizando a cabeça durante o pulo.
+- **Cenário 2D:** ambiente de futebol com campo, chão e elementos de colisão.
+- **Animações:** sprites que representam os movimentos dos personagens, como parado, correndo, pulando e chutando.
 
-Movimentação: os personagens podem andar para a esquerda e para a direita, além de pular.
+## ⌨️ Controles
 
-Chute: os jogadores podem chutar a bola, aplicando força conforme a direção do personagem.
+### Jogador 1 — Barcelona
 
-Cabeçada: possibilidade de interagir com a bola utilizando a cabeça durante o pulo.
+| Tecla | Ação |
+|---|---|
+| A | Movimentar para a esquerda |
+| D | Movimentar para a direita |
+| W | Pular |
+| Espaço | Chutar |
 
-Cenário 2D: ambiente de futebol com campo, chão e elementos de colisão.
+### Jogador 2 — Real Madrid
 
-Animações: sprites que representam os movimentos dos personagens, como parado, correndo, pulando e chutando.
-
+| Tecla | Ação |
+|---|---|
+| ← | Movimentar para a esquerda |
+| → | Movimentar para a direita |
+| ↑ | Pular |
+| 0 (teclado numérico) | Chutar |
