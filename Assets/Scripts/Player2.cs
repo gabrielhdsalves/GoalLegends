@@ -25,7 +25,7 @@ public class Player2 : MonoBehaviour
 
     void OnMove2(InputValue input)
     {
-        _xDirection = input.Get<Vector2>().x;
+        _xDirection = input.Get<float>();
     }
 
     void FlipSprite()
@@ -53,7 +53,7 @@ public class Player2 : MonoBehaviour
         Movimentar();
     }
 
-    void OnJump()
+    void OnJump2()
     {
         if (onJumpCount) return;
 
@@ -63,7 +63,7 @@ public class Player2 : MonoBehaviour
         _playerAnimator.SetBool("IsJump", true);
     }
 
-    void OnAttack()
+    void OnAttack2()
     {
         if (isTouchingBall && _ballRb != null && parteContato == "Pe")
         {

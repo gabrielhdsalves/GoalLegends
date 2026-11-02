@@ -25,7 +25,7 @@ public class Player : MonoBehaviour
 
     void OnMove(InputValue input)
     {
-        _xDirection = input.Get<Vector2>().x;
+        _xDirection = input.Get<float>();
     }
 
     void FlipSprite()
