@@ -16,11 +16,34 @@ public class Player2 : MonoBehaviour
     private bool onJumpCount = false;
     private bool isTouchingBall = false;
     private string parteContato = ""; // Guarda "Pe" ou "Cabeca"
+    private Vector3 _startPos;
+    private Vector3 _startScale;
 
     private void Awake()
     {
         _playerRb = GetComponent<Rigidbody2D>();
         _playerAnimator = GetComponentInChildren<Animator>();
+        _startPos = transform.position;
+        _startScale = transform.localScale;
+    }
+
+    private void OnEnable()
+    {
+        Gol.OnGolMarcado += ResetPosition;
+    }
+
+    private void OnDisable()
+    {
+        Gol.OnGolMarcado -= ResetPosition;
+    }
+
+    private void ResetPosition(int _)
+    {
+        transform.position = _startPos;
+        transform.localScale = _startScale;
+        _playerRb.linearVelocity = Vector2.zero;
+        _playerRb.angularVelocity = 0f;
+        onJumpCount = false;
     }
 
     void OnMove2(InputValue input)
@@ -68,7 +91,19 @@ public class Player2 : MonoBehaviour
         if (isTouchingBall && _ballRb != null && parteContato == "Pe")
         {
             _ballRb.linearVelocity = Vector2.zero;
-            Vector2 direcaoChute = new Vector2(transform.localScale.x, 0.4f).normalized;
+            Vector2 direcaoChute = new Vector2(transform.localScale.x, 0.8f).normalized;
+            _ballRb.AddForce(direcaoChute * kickForce, ForceMode2D.Impulse);
+        }
+
+        _playerAnimator.SetTrigger("IsKick");
+    }
+    
+    void OnPlayer2Attacks2()
+    {
+        if (isTouchingBall && _ballRb != null && parteContato == "Pe")
+        {
+            _ballRb.linearVelocity = Vector2.zero;
+            Vector2 direcaoChute = new Vector2(transform.localScale.x, 0.0f).normalized;
             _ballRb.AddForce(direcaoChute * kickForce, ForceMode2D.Impulse);
         }
 

@@ -37,6 +37,16 @@
                     "priority": 0
                 },
                 {
+                    "name": "Player1Attacks2",
+                    "type": "Button",
+                    "id": "f0fc6e13-ae1b-426f-b5eb-8c3a89f27238",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
                     "name": "Jump",
                     "type": "Button",
                     "id": "f1ba0d36-48eb-4cd5-b651-1c94a6531f70",
@@ -120,6 +130,16 @@
                     "name": "Jump2",
                     "type": "Button",
                     "id": "ae5e3e6e-20de-4ea4-aed6-005034b7c024",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Player2Attacks2",
+                    "type": "Button",
+                    "id": "6264a266-a6e9-48ea-89ac-cc810e09129c",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -373,7 +393,7 @@
                 {
                     "name": "",
                     "id": "967fc921-70fe-4eda-9f69-4a996bf8cd9d",
-                    "path": "<Keyboard>/numpad0",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -389,6 +409,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "Jump2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "32ba5cc3-a2c2-4e3a-a072-f3263349c2d5",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "Player2Attacks2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "57b47b11-1d18-4eef-b2a4-e42f35bb5505",
+                    "path": "<Keyboard>/v",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "Player1Attacks2",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
