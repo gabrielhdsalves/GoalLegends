@@ -24,7 +24,8 @@ Nesta primeira versão, o jogo conta com:
 | A | Movimentar para a esquerda |
 | D | Movimentar para a direita |
 | W | Pular |
-| Espaço | Chutar |
+| V | Chute fraco (rasteiro) |
+| Espaço | Chute forte (bola para cima) |
 
 ### Jogador 2 — Real Madrid
 
@@ -33,4 +34,5 @@ Nesta primeira versão, o jogo conta com:
 | ← | Movimentar para a esquerda |
 | → | Movimentar para a direita |
 | ↑ | Pular |
-| 0 (teclado numérico) | Chutar |
+| Botão direito do mouse | Chute fraco (rasteiro) |
+| Botão esquerdo do mouse | Chute forte (bola para cima) |
