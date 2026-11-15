@@ -6,14 +6,23 @@ Este projeto consiste em um jogo de futebol 2D desenvolvido na Unity, utilizando
 
 ## 🎮 Funcionalidades
 
-Nesta primeira versão, o jogo conta com:
+Nesta versão, o jogo conta com:
 
-- **Dois jogadores (Player 1 e Player 2):** personagens controlados individualmente pelo teclado, permitindo partidas locais.
+- **Dois jogadores (Player 1 e Player 2):** personagens controlados individualmente, permitindo partidas locais.
 - **Movimentação:** os personagens podem andar para a esquerda e para a direita, além de pular.
-- **Chute:** os jogadores podem chutar a bola, aplicando força conforme a direção do personagem.
+- **Chutes:** dois tipos de chute, sendo o fraco (rasteiro) e o forte (que faz a bola subir).
 - **Cabeçada:** possibilidade de interagir com a bola utilizando a cabeça durante o pulo.
 - **Cenário 2D:** ambiente de futebol com campo, chão e elementos de colisão.
 - **Animações:** sprites que representam os movimentos dos personagens, como parado, correndo, pulando e chutando.
+- **Placar:** sistema que contabiliza os gols marcados por cada jogador durante a partida.
+- **Reposicionamento após o gol:** a bola e os jogadores retornam às posições iniciais sempre que um gol é marcado.
+
+## 🛠️ Correções e melhorias
+
+- Correção e ajustes nas animações dos personagens.
+- Implementação de dois tipos de chute: fraco (rasteiro) e forte (bola para cima).
+- Adição de um placar para contabilizar os gols de cada jogador.
+- Reposicionamento automático dos jogadores e da bola após cada gol.
 
 ## ⌨️ Controles
 
